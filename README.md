@@ -19,3 +19,7 @@ Repositório criado para armazenar exercícios, práticas e projetos desenvolvid
 ## Objetivo
 
 Desenvolver conhecimentos em programação, automação e análise de dados.
+## Autor
+
+Gustavo Oliveira Nascimento  
+Estudante de Engenharia de Software
